@@ -12,6 +12,7 @@
 3. Empieza ha hacer lo elementos principales
 
 ![imagen](https://user-images.githubusercontent.com/91209043/139925556-6ad73341-0862-45fa-9116-7aacafffd7ff.png)
+
 4. Termino el código poniendo el elemento personas que contiene las referencias al resto del código.
 
 ![imagen](https://user-images.githubusercontent.com/91209043/139925622-d7f53ba5-4e39-428d-92a6-fbd04501f77c.png)
